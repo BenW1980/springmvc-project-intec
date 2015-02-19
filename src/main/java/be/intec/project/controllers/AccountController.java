@@ -25,6 +25,8 @@ import be.intec.project.services.UserService;
 @Controller
 @RequestMapping("/user")
 public class AccountController {
+	
+	//
 
 	@Autowired
 	private UserService userService;
