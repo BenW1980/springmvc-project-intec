@@ -20,6 +20,7 @@
 	});
 </script>
 </head>
+
 <jsp:include page="/WEB-INF/JSP/menu.jsp" />
 <body>
 	<p />
